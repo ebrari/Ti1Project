@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EntityLayer
 {
-    class Puntori
+    public class Puntori
     {
         private int puntori_ID;
         private string emri;
