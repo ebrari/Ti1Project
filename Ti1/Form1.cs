@@ -20,7 +20,7 @@ namespace Ti1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-           List<Puntori> p= DAPorosia.ListaPuntorve();
+           List<Puntori> p= DAPuntori.ListaPuntorve();
         }
     }
 }

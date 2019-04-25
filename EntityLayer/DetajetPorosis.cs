@@ -31,6 +31,7 @@ namespace EntityLayer
             set { sasia = value; }
         }
 
+
         public int Produkti_ID
         {
             get { return produkti_ID; }
